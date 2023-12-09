@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="500"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="700" height="400"/>
 </div>
 <div id="badges" align="center">
   <a href="https://instagram.com/do83it?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
@@ -9,3 +9,20 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Dimitresku&style=flat-square&color=blue" alt=""/>
 </div>
+
+## About Me :
+I am :man_technologist: a Backend Developer from Russia. 35 years old.
+- I'm learning programming!
+
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="500"/>
+
+- When I'm not learning programming:
+
+    - I work in a bar and do delivery.
+
+    <img src="https://media.giphy.com/media/sEH3lMz5hMBEc/giphy.gif" width="500"/>
+
+    - I play guitar in a 'Friday the 13th' cover band. We play songs by 'King and Jester' (Король и Шут по нашему :mage:)
+  
+    <img src="https://media.giphy.com/media/3beHyPG9DSsdfDd2zp/giphy.gif" width="300"/>
+    
