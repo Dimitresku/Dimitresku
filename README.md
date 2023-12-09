@@ -22,7 +22,9 @@ I am :man_technologist: a Backend Developer from Russia. 35 years old.
 
     <img src="https://media.giphy.com/media/sEH3lMz5hMBEc/giphy.gif" width="500"/>
 
-    - I play guitar in a 'Friday the 13th' cover band. We play songs by 'King and Jester' (Король и Шут по нашему :mage:)
-  
-    <img src="https://media.giphy.com/media/3beHyPG9DSsdfDd2zp/giphy.gif" width="300"/>
-    
+    - I play guitar in a '[Friday the 13th](https://www.youtube.com/@user-ft8dn3mm6d/featured)' cover band. We play songs by 'King and Jester' (Король и Шут по нашему :mage:)
+
+    <img src="https://media.giphy.com/media/10juQ7fAaQjuHS/giphy.gif" width="500"/>
+
+Please write to me: do83it@gmail.com
+   
